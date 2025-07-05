@@ -10,7 +10,7 @@
 <!-- Social network -->
 <p style="margin-top: 50px;">
     <p align="center">
-        <a href="https://github.com/Lulux2z/Lulux2z" target="blank"><img src="https://img.shields.io/github/followers/code-oz?style=social" alt="code__oz" /></a>
+        <a href="https://github.com/Lulux2z/Lulux2z" target="blank"><img src="https://img.shields.io/github/followers/Lulux2z?style=social" alt="code__oz" /></a>
     </p>
     <p align="center">
         <a href='' target="blank"><img src="https://www.google.com/s2/favicons?domain=youtube.com&size=32" alt="YouTube Logo" style="vertical-align: middle; width: 16px; height: 16px; margin-right: 5px;" /> SOON...</a>
