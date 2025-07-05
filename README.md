@@ -1,4 +1,4 @@
-<h1 align="center">Hi I'm Lulux2Z</h1>
+<h1 align="center">👋 Hi I'm Lulux2Z</h1>
 
 <!-- Intro -->
 <p style="margin: 15px;" align="center">
@@ -8,6 +8,8 @@
 </p>
 
 <!-- Social network -->
+<h2 align="center">📢 Stay Connected</h2>
+
 <p style="margin-top: 50px;">
     <p align="center">
         <a href="https://github.com/Lulux2z/Lulux2z" target="blank"><img src="https://img.shields.io/github/followers/Lulux2z?style=social" alt="code__oz" /></a>
@@ -21,31 +23,31 @@
 
 
 <!-- Technos -->
-<h1 align="center">Languages and Tools 🛠</h1>
-<h3 align="center">Basics</h3>
+<h1 align="center">🛠 Languages and Tools</h1>
+<h3 align="center">🎯 Basics</h3>
 <p align="center"> 
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">Backend</h3>
+<h3 align="center">🖥 Backend</h3>
 <p align="center"> 
  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="center">DataBase</h3>
+<h3 align="center">🗄 DataBase</h3>
 <p align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
 
-<h3 align="center">Game Engines</h3>
+<h3 align="center">🎮 Game Engines</h3>
 <p align="center">
  <a href="https://unity.c om/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 </p>
 
 
 <!-- Contact -->
-<h1 align="center">How to get in touch?</h1>
+<h1 align="center">📬 How to get in touch?</h1>
 <h3 align="center">👇 DISCORD 👇</h3>
 <p align="center">
     - <a href="https://discord.com" target="_blank" rel="noopener"> Lulux2z </a>
