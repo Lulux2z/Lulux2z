@@ -52,3 +52,15 @@
 <p align="center">
     - <a href="https://discord.com" target="_blank" rel="noopener"> Lulux2z </a>
 </p>
+
+<br><br>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Lulux2z&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-profile-trophy.vercel.app/?username=Lulux2z&theme=tokyonight&column=4" alt="GitHub Trophies" />
+    </td>
+  </tr>
+</table>
