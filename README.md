@@ -7,7 +7,9 @@
     <h3 align="center">passionate about C#.</h3>
 </p>
 
+
 <!-- Social network -->
+<br><br>
 <h2 align="center">📢 Stay Connected</h2>
 
 <p style="margin-top: 50px;">
@@ -17,12 +19,13 @@
     <p align="center">
         <a href='' target="blank"><img src="https://www.google.com/s2/favicons?domain=youtube.com&size=32" alt="YouTube Logo" style="vertical-align: middle; width: 16px; height: 16px; margin-right: 5px;" /> SOON...</a>
     </p>
-    <p align="center"> <img src="https://komarev.com/ghpvc/?username=code-oz&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
+    <p align="center"> <img src="https://komarev.com/ghpvc/?username=Lulux2z&label=Profile%20views&color=0e75b6&style=flat" alt="code-oz" /> </p>
 </p>
 
 
 
 <!-- Technos -->
+<br><br>
 <h1 align="center">🛠 Languages and Tools</h1>
 <h3 align="center">🎯 Basics</h3>
 <p align="center"> 
@@ -47,6 +50,7 @@
 
 
 <!-- Contact -->
+<br><br>
 <h1 align="center">📬 How to get in touch?</h1>
 <h3 align="center">👇 DISCORD 👇</h3>
 <p align="center">
